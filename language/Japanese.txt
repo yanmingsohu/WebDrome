@@ -1,0 +1,118 @@
+# Japanese Language V1.0 08.6.24
+
+# Format:
+# main parameter		local language
+
+parameterError			パラメーターの誤り
+second				秒
+hour				時間
+error				誤り
+request				願い
+
+# AboutDialog	
+about 				関して
+closeButton			閉鎖します
+explainS1 			プログラムはフリーソフトで、思うままに配って使うことができます
+explainS2 			当プログラムのもたらすいかなる損失を使うためですについて、作者はいかなる責任を負いません
+
+# Cgi_Manage	
+cgiRequestError			Cgi_Manage知らない願い
+
+# CgiBase
+cgiSevereError			cgi深刻な誤り
+cgiSupportClosed		(cgi)の支持は閉鎖されます
+cgiError 			cgi誤りを願い出ます
+cgiErrorFileNotFound		願いのファイルは存在しません
+
+# CharBuffer	
+arrayException			源の数組の長さはあまりに短いです
+
+# FileCache	
+fileRecaches 			ファイルは変更されて再び緩衝しなければなりません
+recacheOver 			ファイルは完成を緩衝します
+canNotRecacheMessage 		重さは緩衝することができなくて、別の１つのスレッドはこの緩衝を訪問しています
+fileChangedRangefall 		ファイルは変更されて、範囲は効力を失って、再び手渡さなければならないことを願い出ます
+rangeFormatError 		範囲のパラメーターは合法的ではありません
+
+# FileCacheManage	
+freeMemory 			メモリを使うことができます
+usedMemory 			メモリの使用量
+fileCachedCount 		ファイルのキャッシュメモリの数量
+MemoryFullFreeCache 		メモリは不足してメモリを釈放します
+timeUPfreeCache 		時間、キャッシュメモリをきちんと整理します
+clientClose 			クライアントはリンクを閉鎖しました
+unknowError 			知らない誤り
+
+# FileCacheMonitorWindow	
+reBrushList 			リストを更新します
+table_filename 			ファイル名
+table_cachetime 		キャッシュメモリの時間(秒)
+table_usecount 			回数を使います
+table_refcount 			引用は数を数えます
+table_useMem 			メモリを占用します(バイト)
+table_state 			状態
+
+# FilterSystem	
+fileinFilterListRebut		リストを濾過する中で、断ることを願い出ます
+
+# HttpHeadAnalyse	
+URLDecoderException		URL電文を解読する誤り
+unableCRLF 			発送するニュース中にあることができませんCR,LF
+lineEndnotisCRLF 		当面の行はいいえCRLF終わりで
+outputMessageException		ニュース体はすでに発送して、引き続き書いてニュース頭に入ることができません
+
+# LinkedIPArray	
+atLinkLimit 			リンクの上限を達成します
+UPException 			回数を使ってすでに上限を達成しました
+DownException			回数を使うのはすでに0で、引き続き釈放することができません
+
+# LogSystem	
+startAt 			開始時間
+writeLogfileError 		書いて日誌のファイルに入ることができません
+dialog_error 			エラーメッセージ
+dialog_link 			リンクのニュース
+dialog_httphead 		無効なHttpデータは願い出ます
+dialog_state 			系統的な状態
+dialog_cache 			ファイルのキャッシュメモリの状態
+
+# ReadConfig	
+unsupportConfigCommand		ファイルの中で誤った配置、支持しない命令
+unsupporttype 			支持しないファイルタイプ
+
+# ServerMachine	
+portinUseError 			ポートはすでに占用されて、関連しているプログラムから退出して更に再び試みることを下さい
+serverAddress			サーバーの住所
+serverPort			サーバーのポート
+serverBeginAt			に運行することを始めます
+closedWinExitpro		このウィンドウのサーバーを閉鎖して退出することができ(ありえ)ます
+serverAcceptError		サーバーの接続は誤りを盗聴します
+cannotChangePort 		サーバーは運行して、ポートを変えることができません
+cannotChangeMode 		サーバーは運行して、表示のモードを変えることができません
+ITI_linkcount 			当面のリンク数
+ITI_totallink 			全部で受け入れる願い
+ITI_runtime 			系統的な運行の時間
+ITI_threadcont			使うスレッド
+
+# SocketLink	
+socketLinked 			すでにつながりました
+socketTimeout 			タイムアウトにつながります
+finishListen			クライアントに対する盗聴を終えます
+requestError 			誤りを願い出ます
+cannotFindFile			ファイルが探し出せません
+unknowRequest 			知らない願い
+readHttpHeadError 		HTTPデータを読み取って間違いが起こります
+socketClosed 			接続を閉鎖しました
+sendFileError 			ファイルの失敗を発送します
+sendFile 			ファイルを発送します
+
+# SystemIcon	
+exitWebServer 			Webサーバーから退出します
+systemIconinitError		系統的なアイコンは記載することができません
+systemOnExit 			システムは退出しています
+plaseUseTaskManageOnExit 	退出は系統的な過程の管理器を使ってもらいます
+
+# TableMessageWindow	
+tablecol_statename		サーバーの属性
+tablecol_state 			状態
+
+# end

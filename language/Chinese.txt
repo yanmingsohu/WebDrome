@@ -1,0 +1,116 @@
+# 中文语言配置
+# CatfoOD 2008.4.2
+
+parameterError						参数错误
+second							秒
+hour							小时
+error							错误
+request							请求
+
+# AboutDialog	
+about 							关于 
+closeButton						关闭
+explainS1 						程序为免费软件,可以任意分发使用
+explainS2 						对于因使用本程序造成的任何损失,作者不负有任何责任
+
+# Cgi_Manage	
+cgiRequestError						Cgi_Manage未知的请求
+
+# CgiBase
+cgiSevereError						cgi严重错误
+cgiSupportClosed					(CGI)的支持被关闭
+cgiError 						cgi请求错误
+cgiErrorFileNotFound					请求的文件不存在
+
+# CharBuffer	
+arrayException						源数组长度太短
+
+# FileCache	
+fileRecaches 						文件被更改需重新缓冲
+recacheOver 						文件缓冲完成
+canNotRecacheMessage 					不能重缓冲,有另一个线程正在访问这个缓冲
+fileChangedRangefall 					文件被更改,范围失效,请求需重新递交
+rangeFormatError 					范围参数不合法
+
+# FileCacheManage	
+freeMemory 						可用内存
+usedMemory 						内存用量
+fileCachedCount 					文件缓存数量
+MemoryFullFreeCache 					内存不足释放内存
+timeUPfreeCache 					小时,清理缓存
+clientClose 						客户端关闭了链接
+unknowError 						未知的错误
+
+# FileCacheMonitorWindow	
+reBrushList 						刷新列表
+table_filename 						文件名
+table_cachetime 					缓存时间(秒)
+table_usecount 						使用次数
+table_refcount 						引用计数
+table_useMem 						占用内存(字节)
+table_state 						状态
+
+# FilterSystem	
+fileinFilterListRebut					在过滤列表中,请求驳回
+
+# HttpHeadAnalyse	
+URLDecoderException					URL解码错误 
+unableCRLF 						发送的消息中不能有CR,LF
+lineEndnotisCRLF 					当前行不以CRLF结尾
+outputMessageException					消息体已经发送,不能继续写入消息头
+
+# LinkedIPArray	
+atLinkLimit 						达到链接上限
+UPException 						使用次数已经达到上限
+DownException						使用次数已经为0,不能继续释放
+
+# LogSystem	
+startAt 						开始时间
+writeLogfileError 					不能写入日志文件
+dialog_error 						错误消息
+dialog_link 						链接消息
+dialog_httphead 					无效的Http数据请求
+dialog_state 						系统状态
+dialog_cache 						文件缓存状态
+
+# ReadConfig	
+unsupportConfigCommand					文件中错误的配置,不支持的命令
+unsupporttype 						不支持的文件类型
+
+# ServerMachine	
+portinUseError 						端口已经被占用,请退出相关程序再重试
+serverAddress						服务器地址
+serverPort						服务器端口
+serverBeginAt						开始运行于
+closedWinExitpro					关闭这个窗口服务器会退出
+serverAcceptError					服务器连接侦听错误
+cannotChangePort 					服务器正在运行,不能改变端口
+cannotChangeMode 					服务器正在运行,不能改变显示模式
+ITI_linkcount 						当前链接数
+ITI_totallink 						总共接受的请求
+ITI_runtime 						系统运行的时间
+ITI_threadcont						使用的线程
+
+# SocketLink	
+socketLinked 						已连接
+socketTimeout 						连接超时
+finishListen						结束对客户端的监听
+requestError 						请求错误
+cannotFindFile						找不到文件
+unknowRequest 						未知的请求
+readHttpHeadError 					读取HTTP头数据出错
+socketClosed 						关闭了连接
+sendFileError 						发送文件失败
+sendFile 						发送文件
+
+# SystemIcon	
+exitWebServer 						退出Web服务器
+systemIconinitError					系统图标不能载入
+systemOnExit 						系统正在退出
+plaseUseTaskManageOnExit 				退出请用系统的进程管理器
+
+# TableMessageWindow	
+tablecol_statename					服务器属性
+tablecol_state 						状态
+
+# end

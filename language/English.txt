@@ -1,0 +1,119 @@
+# English Language
+# CatfoOD 2008.4.2 (laugh at Englishism :)
+#
+# Format:
+# main parameter					local language
+
+parameterError						parameter error
+second							sec.
+hour							hr.
+error							error	
+request							request
+
+# AboutDialog	
+about 							about
+closeButton						close
+explainS1 						is shareware. You may install this program to test and evaluate
+explainS2 						but Author with not responsibility for any problem
+
+# Cgi_Manage	
+cgiRequestError						'Cgi_manage' unkonw request
+
+# CgiBase
+cgiSevereError						cgi severe error		
+cgiSupportClosed					(CGI)support closed
+cgiError 						CGI request error
+cgiErrorFileNotFound					Request file not found
+
+# CharBuffer	
+arrayException						source array too short
+
+# FileCache	
+fileRecaches 						file changed,must recache
+recacheOver 						OK. recache over
+canNotRecacheMessage 					can't recache file. another used
+fileChangedRangefall 					file changed,Range fall,must relink
+rangeFormatError 					range format not require
+
+# FileCacheManage	
+freeMemory 						free memory
+usedMemory 						used memory
+fileCachedCount 					cached file conut
+MemoryFullFreeCache 					memory full,clear cache
+timeUPfreeCache 					hour,clear cache
+clientClose 						client is closed
+unknowError 						unknow error
+
+# FileCacheMonitorWindow	
+reBrushList 						Refurbish
+table_filename 						File name
+table_cachetime 					Cached time(sec.)
+table_usecount 						Used count
+table_refcount 						Referenced count
+table_useMem 						Memoryuse (byte)
+table_state 						State
+
+# FilterSystem	
+fileinFilterListRebut					the file in exclude.
+
+# HttpHeadAnalyse	
+URLDecoderException					URL Decoder Exception
+unableCRLF 						sendmessage can't have CR or LF
+lineEndnotisCRLF 					line end must CRLF
+outputMessageException					message head sended, can't send another
+
+# LinkedIPArray	
+atLinkLimit 						get to link limit
+UPException 						Exception link limited
+DownException						Exception zero limited
+
+# LogSystem	
+startAt 						start at
+writeLogfileError 					can't write log file
+dialog_error 						Error message
+dialog_link 						Link message
+dialog_httphead 					HTTP head message
+dialog_state 						System state
+dialog_cache 						Cache state
+
+# ReadConfig	
+unsupportConfigCommand					unsupport confilg command
+unsupporttype 						can not find type
+
+# ServerMachine	
+portinUseError 						port in used. please exit another program and retry
+serverAddress						server address
+serverPort						server port
+serverBeginAt						start at
+closedWinExitpro					if close this window. web server exit
+serverAcceptError					socket accept error
+cannotChangePort 					server running. can't change port
+cannotChangeMode 					server running. can't change display mode
+ITI_linkcount 						current link
+ITI_totallink 						total receive request
+ITI_runtime 						run time
+ITI_threadcont						use thread
+
+# SocketLink	
+socketLinked 						connected
+socketTimeout 						connect timeout
+finishListen						finish listen to client
+requestError 						request error
+cannotFindFile						can't find file
+unknowRequest 						unknow request
+readHttpHeadError 					read HTTP head error
+socketClosed 						close connect
+sendFileError 						send file error
+sendFile 						send file
+
+# SystemIcon	
+exitWebServer 						Exit Web server
+systemIconinitError					System icon init error
+systemOnExit 						Web server exiting
+plaseUseTaskManageOnExit 				plase use system task manage on exit
+
+# TableMessageWindow	
+tablecol_statename					server attribute
+tablecol_state 						state
+
+# end

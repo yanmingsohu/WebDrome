@@ -1,0 +1,127 @@
+# Language Template
+# Edit on you requirement.
+#
+# for example:
+#
+# -- English:
+# parameterError					parameter is error
+#
+# -- Chinese:
+# parameterError					²ÎÊý´íÎó
+
+# Format:
+# main parameter					local language
+
+parameterError						
+second								
+hour								
+error								
+request
+
+# AboutDialog	
+about 								
+closeButton							
+explainS1 							
+explainS2 							
+
+# Cgi_Manage	
+cgiRequestError						
+
+# CgiBase
+cgiSevereError								
+cgiSupportClosed					
+cgiError 							
+cgiErrorFileNotFound				
+
+# CharBuffer	
+arrayException						
+
+# FileCache	
+fileRecaches 						
+recacheOver 						
+canNotRecacheMessage 				
+fileChangedRangefall 				
+rangeFormatError 					
+
+# FileCacheManage	
+freeMemory 							
+usedMemory 							
+fileCachedCount 					
+MemoryFullFreeCache 				
+timeUPfreeCache 					
+clientClose 						
+unknowError 						
+
+# FileCacheMonitorWindow	
+reBrushList 						
+table_filename 						
+table_cachetime 					
+table_usecount 						
+table_refcount 						
+table_useMem 						
+table_state 						
+
+# FilterSystem	
+fileinFilterListRebut				
+
+# HttpHeadAnalyse	
+URLDecoderException					
+unableCRLF 							
+lineEndnotisCRLF 					
+outputMessageException				
+
+# LinkedIPArray	
+atLinkLimit 						
+UPException 						
+DownException						
+
+# LogSystem	
+startAt 							
+writeLogfileError 					
+dialog_error 						
+dialog_link 						
+dialog_httphead 					
+dialog_state 						
+dialog_cache 						
+
+# ReadConfig	
+unsupportConfigCommand				
+unsupporttype 						
+
+# ServerMachine	
+portinUseError 						
+serverAddress						
+serverPort							
+serverBeginAt						
+closedWinExitpro					
+serverAcceptError					
+cannotChangePort 					
+cannotChangeMode 					
+ITI_linkcount 						
+ITI_totallink 						
+ITI_runtime 						
+ITI_threadcont						
+
+# SocketLink	
+socketLinked 						
+socketTimeout 						
+finishListen						
+requestError 						
+cannotFindFile						
+unknowRequest 						
+readHttpHeadError 					
+socketClosed 						
+sendFileError 						
+sendFile 							
+
+# SystemIcon	
+exitWebServer 						
+systemIconinitError					
+systemOnExit 						
+plaseUseTaskManageOnExit 			
+
+# TableMessageWindow	
+tablecol_statename					
+tablecol_state 						
+
+# end
