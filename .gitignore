@@ -5,7 +5,6 @@ log/*
 *.class
 *.exe
 *.dll
-*.jar
 *.lib
 *.zip
 
